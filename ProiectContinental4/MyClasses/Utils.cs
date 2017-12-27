@@ -41,8 +41,7 @@ namespace ProiectContinental4.MyClasses
 
                     if (hasCPUparams && verificaElse)
                     {
-  
-                        //// AICI SE ADAUGA IN OBIECT !!!!!!!!!!!!!!!!!!!
+
                         Mtype mtype = new Mtype(new List<string>(list1), new List<string>(list2), interschimbare2, interschimbare);
                         mtypes.Add(mtype);
                         verificaElse = false;
