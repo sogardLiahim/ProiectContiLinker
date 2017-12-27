@@ -1,6 +1,5 @@
-# ProiectContiLinker
 *****
-Incomplete linker tool.XML Parser, inserting into a local database from xml file and generating a header file with the following
+C# Incomplete linker tool.XML Parser, inserting into a local database from xml file and generating a header file with the following
 specifications based of the XML data collected and stored into database:
 [MCU]
 ->CPU Id
