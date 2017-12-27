@@ -8,7 +8,7 @@ specifications based of the XML data collected and stored into database:
 ->Flash Application
 ->Flash Parameter
 
-The following header file was generated from this following tool :
+This header file was generated from this following tool :
 
 #ifndef __MOT_QUASAR2E_H
 #define __MOT_QUASAR2E_H
